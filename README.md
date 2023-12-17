@@ -10,6 +10,8 @@
 * I'm utilizing the VGG16 model for my work. It's a powerful convolutional neural network known for its effectiveness in image classification tasks
 * The VGG16 model achieves an accuracy of 89%.
 ###  I wrote a Medium article explaining the transfer model, its architecture, and the classification of corn.
+Here is the medium link - 
+https://pub.towardsai.net/lets-explore-transfer-learning-1bc7576c41e2
 
 
 
